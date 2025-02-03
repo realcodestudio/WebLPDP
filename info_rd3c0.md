@@ -11,8 +11,7 @@
 - 测站RS批次版本: 4Dv13 C 1001
 - RS地图显示: [Station View: Raspberry Shake Network & EQ Activity Map - RD3C0](https://stationview.raspberryshake.org/#/?lat=39.61261&lon=110.59025&zoom=8.000&sta=RD3C0)
  
- - 测站波形：
- <iframe width="500" height="350" src="https://dataview.raspberryshake.org/#/embed/AM/RD3C0/00/EHZ"></iframe>
+
 
 
 
